@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+
+  <test name="RegressionTest1">
+ 
+  
+    <classes>
+      <class name="Console.FirstMavenProject.NewTest3"/>
+    
+     <class name="Console.FirstMavenProject.NewTest4"/>
+    
+     
+    </classes>
+  </test> <!-- Test --> 
+  
+  <test name="RegressionTest2">
+ 
+  
+    <classes>
+    
+    
+     <class name="Console.FirstMavenProject.NewTest4"/>
+    
+     
+    </classes>
+  </test> <!-- Test --> 
+
+  
+</suite> <!-- Suite -->
